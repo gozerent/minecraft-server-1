@@ -1,0 +1,223 @@
+[ 
+	    {
+        "mode": "ADD",
+        "result": "[draconicevolution:wyvern_helm]",
+        "catalyst": "[p455w0rdsthings:emerald_carbon_helmet]",
+        "energy": 3000000,
+        "tier": 1,
+        "ingredients": [
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[draconicevolution:wyvern_core]",
+            "[draconicevolution:wyvern_energy_core]",
+			"[minecraft:nether_star]",
+			"[minecraft:nether_star]"
+        ]
+    },
+	    {
+        "mode": "ADD",
+        "result": "[draconicevolution:wyvern_chest]",
+        "catalyst": "[p455w0rdsthings:emerald_carbon_jetplate]",
+        "energy": 3000000,
+        "tier": 1,
+        "ingredients": [
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[draconicevolution:wyvern_core]",
+            "[draconicevolution:wyvern_energy_core]",
+			"[minecraft:nether_star]",
+			"[minecraft:nether_star]"
+        ]
+    },
+	    {
+        "mode": "ADD",
+        "result": "[draconicevolution:wyvern_legs]",
+        "catalyst": "[p455w0rdsthings:emerald_carbon_leggings]",
+        "energy": 3000000,
+        "tier": 1,
+        "ingredients": [
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[draconicevolution:wyvern_core]",
+            "[draconicevolution:wyvern_energy_core]",
+			"[minecraft:nether_star]",
+			"[minecraft:nether_star]"
+        ]
+    },
+	    {
+        "mode": "ADD",
+        "result": "[draconicevolution:wyvern_boots]",
+        "catalyst": "[p455w0rdsthings:emerald_carbon_boots]",
+        "energy": 3000000,
+        "tier": 1,
+        "ingredients": [
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[draconicevolution:wyvern_core]",
+            "[draconicevolution:wyvern_energy_core]",
+			"[minecraft:nether_star]",
+			"[minecraft:nether_star]"
+        ]
+    },
+		    {
+        "mode": "ADD",
+        "result": "[draconicevolution:wyvern_helm]",
+        "catalyst": "[projecte:item.pe_gem_armor_3]",
+        "energy": 3000000,
+        "tier": 1,
+        "ingredients": [
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[draconicevolution:wyvern_core]",
+            "[draconicevolution:wyvern_energy_core]",
+			"[minecraft:nether_star]",
+			"[minecraft:nether_star]"
+        ]
+    },
+	    {
+        "mode": "ADD",
+        "result": "[draconicevolution:wyvern_chest]",
+        "catalyst": "[projecte:item.pe_gem_armor_2]",
+        "energy": 3000000,
+        "tier": 1,
+        "ingredients": [
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[draconicevolution:wyvern_core]",
+            "[draconicevolution:wyvern_energy_core]",
+			"[minecraft:nether_star]",
+			"[minecraft:nether_star]"
+        ]
+    },
+	    {
+        "mode": "ADD",
+        "result": "[draconicevolution:wyvern_legs]",
+        "catalyst": "[projecte:item.pe_gem_armor_1]",
+        "energy": 3000000,
+        "tier": 1,
+        "ingredients": [
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[draconicevolution:wyvern_core]",
+            "[draconicevolution:wyvern_energy_core]",
+			"[minecraft:nether_star]",
+			"[minecraft:nether_star]"
+        ]
+    },
+	    {
+        "mode": "ADD",
+        "result": "[draconicevolution:wyvern_boots]",
+        "catalyst": "[projecte:item.pe_gem_armor_0]",
+        "energy": 3000000,
+        "tier": 1,
+        "ingredients": [
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[blockDraconium]",
+            "[draconicevolution:wyvern_core]",
+            "[draconicevolution:wyvern_energy_core]",
+			"[minecraft:nether_star]",
+			"[minecraft:nether_star]"
+        ]
+    },
+	    {
+        "mode": "REMOVE",
+        "result": "[draconicevolution:draconic_helm]",
+        "catalyst": "[draconicevolution:wyvern_helm]"
+    },
+	    {
+        "mode": "REMOVE",
+        "result": "[draconicevolution:draconic_chest]",
+        "catalyst": "[draconicevolution:wyvern_chest]"
+    },
+	    {
+        "mode": "REMOVE",
+        "result": "[draconicevolution:draconic_legs]",
+        "catalyst": "[draconicevolution:wyvern_legs]"
+    },
+	    {
+        "mode": "REMOVE",
+        "result": "[draconicevolution:draconic_boots]",
+        "catalyst": "[draconicevolution:wyvern_boots]"
+    },
+	    {
+        "mode": "REMOVE",
+        "result": "[draconicevolution:draconic_staff_of_power]",
+        "catalyst": "[draconicevolution:draconic_pick]",
+        "ingredients": [
+            "[draconicevolution:draconic_ingot]",
+            "[draconicevolution:draconic_ingot]",
+            "[draconicevolution:draconic_ingot]",
+            "[draconicevolution:draconic_ingot]",
+            "[draconicevolution:draconic_ingot]",
+            "[draconicevolution:draconic_shovel]",
+            "[draconicevolution:draconic_sword]",
+            "[draconicevolution:awakened_core]"
+        ]
+    },
+		    {
+        "mode": "ADD",
+        "result": "[projecte:item.pe_tome]",
+        "catalyst": "[projecte:item.pe_transmutation_tablet]",
+        "energy": 999999999,
+        "tier": 3,
+        "ingredients": [
+            "[draconicevolution:chaotic_core]",
+			"[avaritia:resource]:6"
+        ]
+    },
+	 {
+        "mode": "ADD",
+        "result": "[projecte:condenser_mk1]",
+        "catalyst": "[projecte:alchemical_chest]",
+        "energy": 500000,
+        "tier": 2,
+        "ingredients": [
+            "[projecte:item.pe_matter]",
+			"[projecte:item.pe_matter]",
+			"[projecte:item.pe_matter]",
+			"[projecte:item.pe_matter]",
+            "[projecte:item.pe_matter]:1",
+			"[projecte:item.pe_matter]:1",
+			"[projecte:item.pe_matter]:1",
+			"[projecte:item.pe_matter]:1",
+            "[ironchest:BlockIronChest]:6",
+            "[ironchest:BlockIronChest]:5"
+        ]
+    },
+		 {
+        "mode": "ADD",
+        "result": "[projecte:condenser_mk2]",
+        "catalyst": "[projecte:condenser_mk1]",
+        "energy": 1000000,
+        "tier": 2,
+        "ingredients": [
+            "[projecte:matter_block]",
+			"[projecte:matter_block]",
+			"[projecte:matter_block]",
+			"[projecte:matter_block]",
+            "[projecte:matter_block]:1",
+			"[projecte:matter_block]:1",
+			"[projecte:matter_block]:1",
+			"[projecte:matter_block]:1",
+            "[mekanism:MachineBlock]:13",
+            "[enderstorage:enderStorage]",
+			"[appliedenergistics2:chest]"
+        ]
+    }
+]

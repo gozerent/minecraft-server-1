@@ -1,0 +1,48 @@
+{
+  "parties": [
+    {
+      "members": [
+        {
+          "uuid": "e46b364f-5edd-3ad5-b8c3-586f3206ca05",
+          "status": "OWNER"
+        },
+        {
+          "uuid": "e71288f9-e9fe-3771-a9cd-e1fc75d6b295",
+          "status": "MEMBER"
+        },
+        {
+          "uuid": "9938fbe0-0ff9-3069-90a3-2e961bb1e816",
+          "status": "MEMBER"
+        }
+      ],
+      "properties": {
+        "betterquesting": {
+          "name": "New Party",
+          "partyShareLives": false,
+          "partySingleReward": false
+        }
+      },
+      "partyID": 0
+    },
+    {
+      "members": [
+        {
+          "uuid": "e46b364f-5edd-3ad5-b8c3-586f3206ca05",
+          "status": "OWNER"
+        },
+        {
+          "uuid": "9938fbe0-0ff9-3069-90a3-2e961bb1e816",
+          "status": "INVITE"
+        }
+      ],
+      "properties": {
+        "betterquesting": {
+          "name": "New Party",
+          "partyShareLives": false,
+          "partySingleReward": false
+        }
+      },
+      "partyID": 1
+    }
+  ]
+}

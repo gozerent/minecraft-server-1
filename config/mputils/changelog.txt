@@ -1,0 +1,603 @@
+§6 1.3.6 Changelog (Always Backup your world before updating - seriously your world will be overwritten if you don't)
+§9Updated Mods:
+# ChanceCubes
+# Extreme Reactors
+# ItemPhysics
+# WirelessCraftingTerminal
+# Baubles
+# OreSpawn (ore-gen may get weird)
+§9Fixes:
+# Blacklisted chance cubes in quantum quarry dim
+# Went back a version of JourneyMap
+# ItemPhysics will no longer ignite flammable objects
+# Hopefully fixed the texture of the bacon and bat lootbags
+# Fixed texture of baubles haste ring (which also has a recipe now)
+# Added back the item collectors (if you duplicate items some how, oh well)
+# Removed fountain recipe due to crash when the fountain is emptied
+§9WTF:
+# Compressor crashing when connected to pipes and other machines
+# Some how able to get infinite flight without flight items
+Note:
+For skyblock spread /botania-skyblock-spread username 1000 (1000 = range)
+If you use Hermit Skies Map: "/gamerule doDaylightCycle true" and "/difficulty hard"
+------------------
+§6 1.3.5 Changelog (Always Backup your world before updating - seriously your world will be overwritten if you don't)
+§9Updated Mods:
+# Brandonscore/DraconicEvolution
+# ChanceCubes
+# Chisel
+# CodeChickenLib
+# Compatlayer
+# ExtraUtils2
+# JourneyMap
+# McJtyLib
+# RFTools
+§9Fixes:
+# Fixed double compressed cobblestone to compressed gravel hammer recipe (metadata)
+# Removed jetplate from armor progression entirely
+§9WTF:
+# Compressor crashing when trying to connect pipes or automate some how
+# Some how able to get infinite flight without flight items
+Note:
+For skyblock spread /botania-skyblock-spread username 1000 (1000 = range)
+If you use Hermit Skies Map: "/gamerule doDaylightCycle true" and "/difficulty hard"
+------------------
+§6 1.3.4 Changelog (Always Backup your world before updating)
+§9Updated Mods:
+# Applecore
+# ExtraUtils2
+# McJtyLib
+# RFTools
+# Wireless Crafting Terminal
+# BASE
+# Loot Bags
+# Chisel
+§9Features:
+# Added Hermit Skies to Saves folder
+§9Fixes:
+# Fixed Reinforced Thruster recipe
+# Removed quantumflux magnet
+# Yellorium no longer oredicts with uranium
+# Removed  pink slime to minecraft slime blocks recipe
+# Removed Item Collectors (meaning can no longer make them, won't affect existing ones)
+§9WTF:
+# Compressor crashing when trying to connect pipes or automate some how
+# Some how able to get infinite flight without flight items
+Note:
+For skyblock spread /botania-skyblock-spread username 1000 (1000 = range)
+If you use Hermit Skies Map be careful on updating the pack as an update will overwrite the old map: "/gamerule doDaylightCycle true" and "/difficulty hard"
+------------------
+§6 1.3.3 Changelog (Always Backup your world before updating)
+§9Updated Mods:
+# P455w0rd's Things
+# JourneyMap
+# Applecore
+# ExtraUtils2
+# McJtyLib
+# RFTools
+# TheOneProbe
+# Wireless Crafting Terminal
+# Brandonscore
+# Draconic Evolution
+# BASE
+§9Features:
+# Added oredict names to some simplyjetpack items
+§9Fixes:
+# Finally fixed the Jetplate not crafting issue xD
+§9WTF:
+# 
+§9Known Bugs:
+# 
+Note:
+For skyblock spread /botania-skyblock-spread username 1000 (1000 = range)
+I managed to craft 4 of the jetplates without fail, with and without power (jetplates will not have power in them if crafted with powered items)
+------------------
+§6 1.3.2 Changelog (Always Backup your world before updating)
+§9Updated Mods:
+# P455w0rd's Things
+§9Features:
+# Added Rubber Saplings to compost registry
+# Rubber trees are now twerkable
+§9Fixes:
+# 
+§9WTF:
+# 
+§9Known Bugs:
+# 
+Note:
+For skyblock spread /botania-skyblock-spread username 1000 (1000 = range)
+------------------
+§6 1.3.1 Changelog (Always Backup your world before updating)
+§9Updated Mods:
+# 
+§9Features:
+# 
+§9Fixes:
+# Turned milk bucket config in MFR to false
+§9WTF:
+# 
+§9Known Bugs:
+# 
+Note:
+For skyblock spread /botania-skyblock-spread username 1000 (1000 = range)
+------------------
+§6 1.3.0 Changelog (Always Backup your world before updating)
+§9Updated Mods:
+# Extreme Reactors/zerocore
+# ConnectedTexturesMod
+# Mystical Agriculture/Agradditions
+# p455w0rdsthings
+# Wireless Crafting Terminal
+# Forge 2511
+# BdLib
+# NetherPortalFix
+# RFTools
+# Thermal Expansion/Dynamics
+# Tiny Progressions
+# ExtraUtils2
+# JourneyMap
+# Ore Excavation
+§9Features:
+# Changed recipe of fluix pearls
+# Essence apple duration increased
+# Chance of a second essence dropping +5%
+# Chance that a Resource Crop will drop a Fertilized Essence when harvested +5%
+# Chance of a second seed dropping +10%
+# Max Use Cooldown of some moo fluid cows decreased
+# Turned off BQ Hardcore mode
+# Quartz Karat Carrots (jump boost) is now twerkable
+# Added EMC to some items
+# Added quests for Mekanism and Avaritia
+# Added MineFactoryReloaded
+# Some MFR items now stack to 64
+# Blaze, Basalz, Blizz, and Blitz powder can now be compressed into their rod forms in the compressor
+§9Fixes:
+# Fixed copper and tin block emc values
+# Unhid P455w0rd's manual
+# Fixed supremium armor ore dict
+# Fixed ludicrite recipe
+# Hid items with missing texture from JEI
+# Moved some quests around
+# Changed requirement quest for draconic tablet to wither boss quest
+§9WTF:
+# 
+§9Known Bugs:
+# 
+Note:
+For skyblock spread /botania-skyblock-spread username 1000 (1000 = range)
+------------------
+§6 1.2.0 Changelog (Always Backup your world before updating)
+§9Updated Mods:
+# ExtraUtils2
+# COFHcore
+# netherportalfix
+# TOP
+# ThermalExpansion/Dynamics
+# Mekanism
+# Appleskin
+# DraconicEvolution/Brandonscore
+# Chisel
+# JourneyMap
+# rftoolsdim
+# Quantum Storage
+# Chance Cubes
+# Extreme Reactors/zerocore
+# Journeymap
+# Tiny Progressions
+# TS2K16
+# ChiselsandBits
+# p455w0rdsLib/p455w0rdsthings
+# Wireless Crafting Terminal
+§9Features:
+# Added ore dict to all supremium armor
+# Compacting drawers now compact broken ore pieces
+# Added Blacker Lotus to legendary lootbags
+# Reduced bag opener cooldown
+§9Fixes:
+# Fixed enchanter recipe
+# Fixed wooden sword and tools recipe
+# Reduced seed duplication chance
+# Hopefully fixed Dark soularium jetplate, vibrant capacitor pack needs absolutely no energy in it for recipe to work.
+§9WTF:
+# 
+§9Known Bugs:
+# 
+Note:
+For skyblock spread /botania-skyblock-spread username 1000 (1000 = range)
+------------------
+§6 1.1.0 Changelog (Always Backup your world before updating)
+§9Updated Mods:
+# PlusTiC
+# Wireless Crafting Terminal
+# Tiny Progressions
+# Added Chicken Chunks mod
+# DraconicEvolution/Brandonscore
+# HammerCore
+# FarmingForBlockheads
+# Mekanism
+# JourneyMap
+# ExtraUtils2
+# NetherPortalFix
+# Ore Excavation
+# Chance Cubes
+# Foamfix
+# Chisel
+# ConnectedTexturesMod
+# RFTools
+# Stacksize
+§9Features:
+# Added some information in BQ dealing with early game 
+# Added Extras menu containing all 4 pack author's twitch channels
+# Adjusted ore excavator
+# Make RAK quest give starting items
+# Improved simple sponges
+# Improved Dimensional Transciever
+# Added more rewards in loot chests
+# Adjusted Epeolatry
+# Adjusted Simply Jetpacks
+§9Fixes:
+# Removed ender pearl duplication
+# Fixed twerking/shifting for harvestcraft crops that grow on trees
+# Fixed recipe for BQ book (even though you actually don't need it to open the GUI)
+# Removed extrautils building wand because duplication
+# Fixed extreme reactor recipes concerning the reactor not turbine
+# Fixed nether copper ore not spawning
+# Fixed recipes
+# Removed starting inventory items
+§9WTF:
+# 
+§9Known Bugs:
+# IChisel crash upon use
+Note:
+P455w0rd's Things has not updated yet
+For skyblock spread /botania-skyblock-spread username 1000 (1000 = range)
+------------------
+§6 1.0.0 Changelog (Always Backup your world before updating)
+§9Updated Mods:
+# Forge 2422
+# CofhCore
+# ExtraUtils2
+# Mekanism
+# PlusTiC
+# RedstoneArsenal
+# RFTools
+# RFToolsdim
+# The One Probe
+# Thermal Dynamics
+# Thermal Foundation
+# Thermal Expansion
+# Applied Energistics 2 rv4
+# Mystical Agriculture/Agradditions
+# Torchmaster
+# Bibliocraft
+# Simple Sponge
+# DraconicEvolution/Brandonscore
+# ConnectedTexturesMod
+# ChiselsandBits
+§9Features:
+# 
+§9Fixes:
+# 
+§9WTF:
+#
+§9Known Bugs:
+#
+Note:
+For skyblock spread /botania-skyblock-spread username 1000 (1000 = range)
+------------------
+§6 0.0.15 Changelog (Always Backup your world before updating)
+§9Updated Mods:
+# McJtyLib
+# PlusTiC
+# Storage Drawers
+# Thermal Expansion/Foundation/Dynamics
+# JourneyMap
+# Chisel
+# COFH Core
+# CodeChickenLib
+# ConnectedTexturesMod
+# ExtraUtils2
+# Mystical Agriculture
+# RedstoneArsenal
+# Pam's Harvestcraft
+# MobGrindingUtils
+# Simple Sponge
+# Applecore
+§9Features:
+# Re-enabled molten infinity cow
+# Increased strength of Infinity tool parts
+# Added quests for watering cans
+# Added item rewards to a couple of quests
+# Added oredict to industrial Grade Graphite ore
+§9Fixes:
+# Configured SimplyJetpacks
+# Regenerated harvestcraft config
+# Fixed recipe registry name changes for harvestcraft
+# Fixed weird issue while making watering can quests because saving
+# Made watering cans have a tiered progression
+§9WTF:
+Extra Utlities 2 doing some major log spam concerning tooltips (Notepad and Notepad++ couldn't open the log at all)
+Note:
+For skyblock spread /botania-skyblock-spread username 1000 (1000 = range)
+------------------
+§6 0.0.14 Changelog (Always Backup your world before updating)
+§9Updated Mods:
+# Applecore
+# Avaritia
+# COFHcore, TE, TF, TD, RA
+# Simply Jetpacks
+# TOPAddons
+# Draconic Evolution
+# ConnectedTexturesMod
+# Ender IO
+# Journey Map
+# Extreme Reactors
+# Chisel
+# Ore Excavation
+# ProjectE
+# PlusTiC
+# Tiny Progressions
+# Appleskin
+# Brandonscore
+# Gravestone
+# ItemPhysic
+# NetherPortalFix
+# RFTools
+§9Fixes:
+# Fixed recipe of tome of knowledge
+# What was that about Infinity cow OG Mwhahahahahahaha, shouldn't be so loud when someone is watching anime :P
+Note:
+For skyblock spread /botania-skyblock-spread username 1000 (1000 = range)
+------------------
+§6 0.0.13 Changelog (Always Backup your world before updating)
+# §9Updated Avaritia... thrice
+# Updated Baubles
+# §9Updated Storage Drawers
+# Updated Torchmaster
+# §9Updated RebornCore
+# Updated MTLib
+# §9Updated Lootbags
+# Did something with BQ that everyone is going to like
+# §9Reduced number of ticks between each twerk growth to 5
+# Updated IronChests
+# §9Updated Tinkers' Construct
+# Updated PlusTiC (Yay pyrotheum fuel hype)... twice
+# §9Updated Bibliocraft... twice
+# Updated Chance Cubes
+# §9Updated B.A.S.E
+# Updated Pam's Harvestcraft... twice
+# §9Updated rftoolsdim
+# Added Morpheus because bruh
+# §9Updated Foamfix
+# Updated CodeChickenLib
+# §9Updated ExtraUtils2... Thrice
+# Updated JEI
+# §9Updated TOPAddons
+# Updated Storage Drawers
+# §9Updated Ender IO
+# Updated Farming for Blockheads
+# §9Updated BQ
+# Updated MPUtils
+# §9Updated Brandonscore
+# Updated Draconic Evolution
+# §9Updated Mystical Agriculture
+# Updated COFH Core, Thermal Foundation, Thermal Expansion, Redstone Arsenal, and added Thermal Dynamics
+# §9Updated Chisel & Bits
+# Updated ItemPhysic
+# §9Added Simple Sponge
+# Updated CraftTweaker
+# §9Updated to Forge 2316
+Note:
+For skyblock spread /botania-skyblock-spread username 1000 (1000 = range)
+------------------
+§6 0.0.12 Changelog (Always Backup your world before updating)
+# §9Updated Storage Drawers... twice
+# Updated Chameleon
+# §9Updated to Forge 2297
+# Updated Mystical Agriculture
+# §9Updated  Ore Excavation... twice
+# Updated RFTools
+# §9Updated CraftTweaker
+# Updated Karat Garden
+# §9Updated MobGrindingUtils... twice
+# Updated MPUtils
+# §9Updated ZeroCore
+# Updated Bibliocraft
+# §9Updated XReliquary
+# Every Quest is now a retrieval task
+# §9Removed modded singularities from JEI and infinity catalyst recipe
+# changed recipe of Ultimate Stew
+# §9Infinity Catalyst now has an EMC value
+# Removed golden bag of holding
+# §9Resolved boiler and steel gear recipe conflict
+# Removed Bloodmoon
+# §9Updated Quantum Storage
+# Updated CompatLayer
+# §9Updated RebornCore
+# Updated HammerCore
+# §9Updated Solar Flux Reborn
+Note:
+For skyblock spread /botania-skyblock-spread username 1000 (1000 = range)
+------------------
+§6 0.0.11 Changelog (Always Backup your world before updating)
+# §9Updated p455w0rdsthings (night vision definitly works now)
+# Added NoFOV mod
+# §9Dark soularium jetplate quest now works and is a retrieval task now
+# Added 2 very interesting rewards
+Note:
+For skyblock spread /botania-skyblock-spread username 1000 (1000 = range)
+------------------
+§6 0.0.10 Changelog (Always Backup your world before updating)
+# §9Updated FTBLib and Utlities
+# Updated Ender IO
+# §9Updated TOPAddons
+# Updated Storage Drawers
+# §9Updated Draconic Evolution and Brandonscore
+# Changed recipe of Bag Opener, machine chassis (p455w0rdsthings) and compressor
+# §9Added EMC to some items that lost it
+# Removed compressor recipes
+# §9Added new compressor recipes
+# Updated p455w0rdsthings and p455w0rdsLib ( Do not open the ingame guide, P455w0rd says it's not ready)
+Note:
+For skyblock spread /botania-skyblock-spread username 1000 (1000 = range)
+------------------
+§6 0.0.9 Changelog (Always Backup your world before updating)
+# §9Updated storage drawers
+# Updated FTB Utils and Lib
+# §9Updated TOPAddons
+# Updated Mystical Agriculture
+# §9Updated ItemPhysics
+# Updated LootBags
+# §9Updated CompatLayer
+# Updated Torchmaster
+# §9Disabled custom pickup again
+# Updated Baubles
+# §9Updated Endercore
+# Updated Mob Grinding Utils
+# §9Updated PlusTiC
+# Distance between chaos islands is now 2000
+Note:
+For skyblock spread /botania-skyblock-spread username 1000 (1000 = range)
+------------------
+§6 0.0.8 Changelog (Always Backup your world before updating)
+# §9Updated Creativecore and Itemphysics
+# Updated TOP Addons
+# §9Updated Ore Excavation
+# Mystical Agriculture seeds now have a 60% chance to drop a second seed
+# §9Can now melt ender lilly into Esonant Render
+# Can now sag mill diamond furnaces and diamond shields
+# §9Added 4 enchants to ender io enchanter
+# Boss mobs can now be captured in soul vials
+# §9Adjusted rftools machines a bit
+# Updated Mystical Agriculture/Agradditions
+# §9Updated AngelRingToBauble
+# Turned custom pickup back on since fps weirdness from traveling away from spawn is gone
+# §9Removed some moofluids
+# Removed Emerald and Diamond Singularities from infinity catalyst recipe
+# §9Karat Carrots now have an EMC value equal to regular carrots
+# SkyStone Dust now has an oredict name allowing you to indirectly turn it into silicon
+# §9More items are available through EMC
+# Reordered Energistics questline a little
+# §9Crystal Growth Chamber quest should now work and has been changed to retrieval task
+# Mystical Agriculture armors should be able upgrade to next tier no matter how much damage the sustain
+# §9Adjusted Dank/Null recipes
+# Adjusted power usage of mekanism machines
+# §9Disabled raining potion giant chance cube reward
+# Updated PlusTiC
+Note:
+For skyblock spread /botania-skyblock-spread username 1000 (1000 = range)
+------------------
+§6 0.0.7 Changelog (Always Backup your world before updating)
+# §9Updated Simply Jetpacks 
+# Updated Mystical Agriculture and Mystical Agradditions
+# §9Updated Ender IO
+# Updated Chisel
+# §9Thermal Foundation ores properly world gen now
+# Updated RFTools and XNet
+# §9Reduced maximum Extreme reactor size to 16x16x16
+# Reduced maximum height of Extreme turbines to 16
+# §9Increased power output of Extreme Reactors however they use a lot more fuel
+# Updated PlusTiC
+# §9Updated Wireless Crafting Terminal
+# Ignore errors when going into an existing world
+# §9Updated Reliquary
+# Updated CodeChickenLib
+# §9Updated TOP Addons
+# Removed Avaritia Additions
+# §9Updated Avaritia 1.10
+# Decrease power output of DE Reactor
+# §9Removed XNet
+# Redone Growth crystal recipes
+# §9Turned off ItemPhysic custompickup config due to extreme fps drop the further you traveled from spawn (BRUH)
+# Gave nether ores ore-dict names so digital miner can pick them up now
+# §9Fixed minor derp in infinity catalyst recipe
+# Downgraded NEI so no more NEI log spam
+Note:
+For skyblock spread /botania-skyblock-spread username 1000 (1000 = range)
+------------------
+§6 0.0.6 Changelog (Always Backup your world before updating)
+# Fixed energy condenser recipe consuming only 1 dark/red matter
+# §9Removed colossal chests
+# Fixed Draconic staff of power recipe
+# §9Added normal crafting recipe for draconic grinder because DE doesn't like furnaces
+# Re-added Emerald scythe
+# §9Hopefully reduced particles from growth crystals because bruh
+# Added Mystical Agradditions ((Nether Star crops! I love you and I miss you HUUUUUUUUUUUUU) I saw it the first time you mentioned it Shattered)
+# §9Aroma Mining Dimension will now only be day time however mobs will still spawn underground
+# Wyvern and Chaotic fusion crafting injector quests now work
+# §9Changed recipe of Zenith Furnace
+# Changed recipes of some Avaritia items
+# §9Adjusted golden apple recipe
+# Endest pearls are stackable to 64
+# §9Messed with EMC values again
+# Updated to Forge 2281
+# §9Rftool's crafters do more crafting operations in fast mode
+# Regenerated simply jetpacks config
+------------------
+§6 0.0.5 Changelog (Always Backup your world before updating)
+# Fixed intermedium furnace quest
+# §9Fixed alchemy catalyst quest
+# Fixed draconic evolution fusion crafting core quest
+# §9Fixed swiftwolfs quest
+# Fixed red matter pickaxe quest
+# §9Fixed up EMC values for items
+# Updated a few mods
+# §9Changed recipe of Covalence dusts
+# Removed 1 quest from the botania questline
+# §9Ender IO capacitors and energy conduits have been enhanced
+# Changed recipe of Dark Soularium Jetplate
+# §9Withers no longer have the Resistance power-up
+# Adjusted Death Knell power-up
+# §9Reduced health boost max strength power-up
+# If they're able to Withers will use Lightning power-up a little bit more perfectly
+# §9Withers will no longer teleport
+# Adjusted Nether Star Wither looting
+# §9Made new quest to go to the end
+# Added melting of iron and gold tools
+# §9Removed ITank
+# Updated to Forge 2272
+------------------
+§6 0.0.4 Changelog (Always Backup your world before updating)
+# Some horse armors can now be melted in the smeltery
+# §9glowstone and redstone can be melted in the smeltery
+# Turned growth accelerator quest into a retrieval task
+# §9Fixed storage cell quests (maybe)
+# Added ExU2 machine block recipe
+# §9Karat Carrots are now twerkable
+# Karat Carrot seeds are now obtainable from sieving dirt
+# §9 Refined Obsidian and Osmium tools/armor can now be melted in the smeltery
+# Some metals have been enhanced for use as tinkers tools
+# §9Updated a few mods
+# Added the Potion Icon Remover mod
+# §9Yellorite ore now spawns in other dimensions other than the overworld
+# A quest no longer has loot chests because bruh
+# §9Added RFtools and RFtools dimensions
+# Fixed Solarflux panel 5 quest
+# §9Plustic Osmium dust can now be smelted in furnaces
+# TP Growth crystals are now craftable although...
+------------------
+§6 0.0.3 Changelog (Always Backup your world before updating)
+# Fixed recipe conflict between CnBs' wrench and wooden hammer
+# §9Fixed watering can recipe where iron ingots weren't consumed with the bucket
+# Fixed spelling errors in reward names because Cazador doesn't proof read
+# §9Updated a few mods
+# Fixed nether redstone not  spawning in the the nether at all
+# §9Increased twerk simulator radius
+# Added Xnet and PlusTiC
+# §9Fixed specific molten liquids basin recipes so they no longer change into the chisel versions
+# Fixed all 3 watering can quests
+# §9All Dank/Null/ quests work correctly
+# Fixed 2 rewards for loot chests
+# §9Reorganized loot chests reward weighting
+# Bronze items from Mekanism can now be smelted down in the smeltery like Steel can
+------------------
+§6 0.0.2 Changelog (Always Backup your world before updating)
+# Added rewards to quests and loot chests
+# §9Replaced WAILA and addons with TOP
+# Removed Simple Harvest
+------------------
+§6 0.0.1 Changelog (Always Backup your world before updating)
+# Still WIP
+------------------
+§6 0.0.0 Changelog (Always Backup your world before updating)
+# Initial Commit

@@ -1,0 +1,104 @@
+<!--
+  Custom recipes that will not be over written by Ender IO are added here. Examples of recipes can be found in the
+  AlloySmelterRecipes_Core.xml and general format documentation in the SAGMillRecipes_Core/User.
+
+  As well as adding custom recipes to the operation of the Alloy Smelter, a vanilla furnace recipe can be controlled.
+  It can be disabled completely by simply adding this line:
+
+  <vanillaFurnaceRecipes enabled="false" />
+
+  It is also possible to selectively disable vanilla furnace recipes. The following example disables the smelting of iron
+  ingots, ender pearls, and any form of iron ore registered in the ore dictionary.
+
+  <vanillaFurnaceRecipes>
+
+	<exclude>
+      <itemStack modID="minecraft" itemName="iron_ingot" />
+      <itemStack modID="minecraft" itemName="ender_pearl" />
+      <itemStack oreDictionary="oreIron" />
+    </exclude>
+
+  </vanillaFurnaceRecipes>
+
+  Add this line to disable the creation of TE alloys using the Alloy Smelter.
+
+  <recipeGroup name="Thermal Expansion" enabled="false" />
+
+-->
+
+<AlloySmelterRecipes>
+
+	<recipeGroup name="ExtremeReactors" >
+    <recipe name="Steel Ingot" energyCost="8000" >
+      <input>
+        <itemStack oreDictionary="ingotIron" />
+        <itemStack oreDictionary="dustCoal" number="8" />
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotSteel" number="1" />
+      </output>
+    </recipe>
+	
+	    <recipe name="Steel Ingot" energyCost="8000" >
+      <input>
+        <itemStack oreDictionary="ingotIron" />
+        <itemStack oreDictionary="dustCharcoal" number="8" />
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotSteel" number="1" />
+      </output>
+    </recipe>
+	</recipeGroup>
+	
+	<recipeGroup name="MysticalAgriculture" >
+    <recipe name="Prosperity Ore" energyCost="2000" >
+      <input>
+        <itemStack modID="mysticalagriculture" itemName="prosperity_ore" />
+      </input>
+      <output>
+        <itemStack modID="mysticalagriculture" itemName="prosperity_shard" number="1" />
+      </output>
+    </recipe>
+    <recipe name="Nether Prosperity Ore" energyCost="2000" >
+      <input>
+        <itemStack modID="mysticalagriculture" itemName="nether_prosperity_ore" />
+      </input>
+      <output>
+        <itemStack modID="mysticalagriculture" itemName="prosperity_shard" number="1" />
+      </output>
+    </recipe>
+    <recipe name="End Prosperity Ore" energyCost="2000" >
+      <input>
+        <itemStack modID="mysticalagriculture" itemName="end_prosperity_ore" />
+      </input>
+      <output>
+        <itemStack modID="mysticalagriculture" itemName="prosperity_shard" number="1" />
+      </output>
+    </recipe>
+    <recipe name="Inferium Ore" energyCost="2000" >
+      <input>
+        <itemStack modID="mysticalagriculture" itemName="inferium_ore" />
+      </input>
+      <output>
+        <itemStack modID="mysticalagriculture" itemName="inferium_essence" number="1" />
+      </output>
+    </recipe>
+    <recipe name="Nether Inferium Ore" energyCost="2000" >
+      <input>
+        <itemStack modID="mysticalagriculture" itemName="nether_inferium_ore" />
+      </input>
+      <output>
+        <itemStack modID="mysticalagriculture" itemName="inferium_essence" number="1" />
+      </output>
+    </recipe>
+    <recipe name="End Inferium Ore" energyCost="2000" >
+      <input>
+        <itemStack modID="mysticalagriculture" itemName="end_inferium_ore" />
+      </input>
+      <output>
+        <itemStack modID="mysticalagriculture" itemName="inferium_essence" number="1" />
+      </output>
+    </recipe>
+  </recipeGroup>
+  
+</AlloySmelterRecipes>

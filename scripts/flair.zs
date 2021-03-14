@@ -1,0 +1,16 @@
+game.setLocalization("attribute.name.extrautils2.armorPiercingAttackDamage", "Armor Piecing Attack Damage");
+game.setLocalization("attribute.name.extrautils2.godSlayingAttackDamage", "God Slaying Attack Damage");
+game.setLocalization("attribute.name.extrautils2.soulDamage", "Soul Damage");
+game.setLocalization("enchantment.level.40", "40");
+game.setLocalization("entity.farmingforblockheads.merchant.name", "Merchant");
+game.setLocalization("entity.gravestone.player_ghost.name", "Player Ghost");
+game.setLocalization("entity.minefactoryreloaded.mfrEntityPinkSlime.name", "Pink Slime");
+game.setLocalization("flair.item.advancedCircuit", "Crafting ingredient.");
+game.setLocalization("flair.item.amplificationCrystal", "Crafting ingredient.");
+game.setLocalization("flair.item.enderCrystal", "Crafting ingredient.");
+game.setLocalization("flair.item.goldCasing", "Crafting ingredient.");
+game.setLocalization("flair.item.quantumDisk", "Pretty useless, actually");
+game.setLocalization("flair.item.quibitCrystal", "Crafting ingredient.");
+game.setLocalization("item.BirthdayPickaxe.name", "Birthday Pickaxe");
+game.setLocalization("item.lemondrizzlecakeitem.name", "Lemon Drizzle Cake");
+game.setLocalization("item.lemonmeringueitem.name", "Lemon Meringue");

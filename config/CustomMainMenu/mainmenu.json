@@ -1,0 +1,177 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "modpack:textures/gui/Project-Ozone-Lite.png",
+            "posX" : -190,
+            "posY" : 26,
+            "width" : 384,
+            "height" : 83,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -130,
+            "posY" : 48,
+            "width" : 128,
+            "height" : 20,
+            "texture" : "modpack:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 0,
+            "posY" : 48,
+            "width" : 128,
+            "height" : 20,
+            "texture" : "modpack:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : 0,
+            "posY" : 72,
+            "width" : 128,
+            "height" : 20,
+            "texture" : "modpack:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -130,
+            "posY" : 96,
+            "width" : 128,
+            "height" : 20,
+            "texture" : "modpack:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 0,
+            "posY" : 96,
+            "width" : 128,
+            "height" : 20,
+            "texture" : "modpack:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "Lang",
+            "posX" : -130,
+            "posY" : 72,
+            "width" : 128,
+            "height" : 20,
+            "texture" : "modpack:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : 0,
+            "posY" : 120,
+            "width" : 0,
+            "height" : 0,
+            "texture" : "modpack:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        },
+		
+		"submenu":
+		{
+			"text" : "Extras",
+			"posX" : -65,
+            "posY" : 120,
+            "width" : 128,
+            "height" : 20,
+            "texture" : "modpack:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "openGui",
+				"gui" : "custom.Content"
+			}
+		}
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -40,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 124,
+            "posY" : 86,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : "file:modpack:texts/splashes.txt"
+        },
+        
+        "panorama":
+        {
+            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : true
+        }
+    }
+}

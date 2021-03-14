@@ -1,0 +1,744 @@
+{
+  "entries": [
+    {
+      "item": "storagedrawers:upgradeTemplate|0",
+      "emc": 50
+    },
+    {
+      "item": "projecte:transmutation_table|0",
+      "emc": 50
+    },
+    {
+      "item": "projecte:item.pe_transmutation_tablet|0",
+      "emc": 100
+    },
+    {
+      "item": "projecte:item.pe_philosophers_stone|0",
+      "emc": 50
+    },
+    {
+      "item": "appliedenergistics2:material|0",
+      "emc": 256
+    },
+    {
+      "item": "appliedenergistics2:material|1",
+      "emc": 256
+    },
+    {
+      "item": "appliedenergistics2:material|2",
+      "emc": 128
+    },
+    {
+      "item": "appliedenergistics2:material|3",
+      "emc": 128
+    },
+    {
+      "item": "appliedenergistics2:material|10",
+      "emc": 256
+    },
+    {
+      "item": "appliedenergistics2:material|11",
+      "emc": 256
+    },
+    {
+      "item": "appliedenergistics2:material|12",
+      "emc": 256
+    },
+    {
+      "item": "appliedenergistics2:nether_quartz_wrench|0",
+      "emc": 1280
+    },
+    {
+      "item": "appliedenergistics2:certus_quartz_wrench|0",
+      "emc": 1280
+    },
+    {
+      "item": "appliedenergistics2:nether_quartz_cutting_knife|0",
+      "emc": 776
+    },
+    {
+      "item": "appliedenergistics2:certus_quartz_cutting_knife|0",
+      "emc": 776
+    },
+    {
+      "item": "appliedenergistics2:material|40",
+      "emc": 16
+    },
+    {
+      "item": "appliedenergistics2:grindstone|0",
+      "emc": 789
+    },
+    {
+      "item": "minecraft:enchanted_book|0",
+      "emc": 0
+    },
+    {
+      "item": "karatgarden:item_carrot_base|0",
+      "emc": 64
+    },
+    {
+      "item": "karatgarden:item_carrot_01|0",
+      "emc": 64
+    },
+    {
+      "item": "karatgarden:item_carrot_02|0",
+      "emc": 64
+    },
+    {
+      "item": "karatgarden:item_carrot_03|0",
+      "emc": 64
+    },
+    {
+      "item": "karatgarden:item_carrot_04|0",
+      "emc": 64
+    },
+    {
+      "item": "karatgarden:item_carrot_05|0",
+      "emc": 64
+    },
+    {
+      "item": "karatgarden:item_carrot_06|0",
+      "emc": 64
+    },
+    {
+      "item": "karatgarden:item_carrot_07|0",
+      "emc": 64
+    },
+    {
+      "item": "karatgarden:item_carrot_01_ext|0",
+      "emc": 64
+    },
+    {
+      "item": "karatgarden:item_carrot_02_ext|0",
+      "emc": 64
+    },
+    {
+      "item": "karatgarden:item_carrot_03_ext|0",
+      "emc": 64
+    },
+    {
+      "item": "karatgarden:item_carrot_04_ext|0",
+      "emc": 64
+    },
+    {
+      "item": "karatgarden:item_carrot_05_ext|0",
+      "emc": 64
+    },
+    {
+      "item": "karatgarden:item_carrot_06_ext|0",
+      "emc": 64
+    },
+    {
+      "item": "karatgarden:item_carrot_07_ext|0",
+      "emc": 64
+    },
+    {
+      "item": "appliedenergistics2:material|45",
+      "emc": 128
+    },
+    {
+      "item": "appliedenergistics2:sky_stone_block|0",
+      "emc": 128
+    },
+    {
+      "item": "appliedenergistics2:crank|0",
+      "emc": 20
+    },
+    {
+      "item": "appliedenergistics2:charger|0",
+      "emc": 1792
+    },
+    {
+      "item": "appliedenergistics2:sky_compass|0",
+      "emc": 1280
+    },
+    {
+      "item": "appliedenergistics2:part|140",
+      "emc": 130
+    },
+    {
+      "item": "appliedenergistics2:part|16",
+      "emc": 160
+    },
+    {
+      "item": "appliedenergistics2:part|36",
+      "emc": 208
+    },
+    {
+      "item": "appliedenergistics2:part|56",
+      "emc": 656
+    },
+    {
+      "item": "appliedenergistics2:part|76",
+      "emc": 1280
+    },
+    {
+      "item": "appliedenergistics2:material|20",
+      "emc": 32
+    },
+    {
+      "item": "appliedenergistics2:material|18",
+      "emc": 2048
+    },
+    {
+      "item": "appliedenergistics2:material|17",
+      "emc": 8192
+    },
+    {
+      "item": "appliedenergistics2:material|16",
+      "emc": 256
+    },
+    {
+      "item": "appliedenergistics2:material|22",
+      "emc": 2144
+    },
+    {
+      "item": "appliedenergistics2:material|24",
+      "emc": 8288
+    },
+    {
+      "item": "appliedenergistics2:material|23",
+      "emc": 352
+    },
+    {
+      "item": "appliedenergistics2:quartz_glass|0",
+      "emc": 161
+    },
+    {
+      "item": "appliedenergistics2:quartz_vibrant_glass|0",
+      "emc": 929
+    },
+    {
+      "item": "appliedenergistics2:energy_acceptor|0",
+      "emc": 1924
+    },
+    {
+      "item": "appliedenergistics2:material|50",
+      "emc": 28
+    },
+    {
+      "item": "appliedenergistics2:material|44",
+      "emc": 1264
+    },
+    {
+      "item": "appliedenergistics2:material|43",
+      "emc": 1264
+    },
+    {
+      "item": "appliedenergistics2:interface|0",
+      "emc": 2290
+    },
+    {
+      "item": "appliedenergistics2:part|440",
+      "emc": 2290
+    },
+    {
+      "item": "appliedenergistics2:drive|0",
+      "emc": 17920
+    },
+    {
+      "item": "appliedenergistics2:part|180",
+      "emc": 523
+    },
+    {
+      "item": "appliedenergistics2:part|160",
+      "emc": 523
+    },
+    {
+      "item": "appliedenergistics2:part|200",
+      "emc": 523
+    },
+    {
+      "item": "appliedenergistics2:part|380",
+      "emc": 5195
+    },
+    {
+      "item": "appliedenergistics2:part|360",
+      "emc": 5579
+    },
+    {
+      "item": "appliedenergistics2:part|340",
+      "emc": 13867
+    },
+    {
+      "item": "appliedenergistics2:chest|0",
+      "emc": 6285
+    },
+    {
+      "item": "appliedenergistics2:energy_cell|0",
+      "emc": 1697
+    },
+    {
+      "item": "appliedenergistics2:dense_energy_cell|0",
+      "emc": 13928
+    },
+    {
+      "item": "appliedenergistics2:part|220",
+      "emc": 3018
+    },
+    {
+      "item": "appliedenergistics2:part|240",
+      "emc": 2156
+    },
+    {
+      "item": "appliedenergistics2:part|260",
+      "emc": 2160
+    },
+    {
+      "item": "p455w0rdsthings:friender_pearl|0",
+      "emc": 1024
+    },
+    {
+      "item": "p455w0rdsthings:carbon_ingot|0",
+      "emc": 2304
+    },
+    {
+      "item": "p455w0rdsthings:carbon_rod_0|0",
+      "emc": 6912
+    },
+    {
+      "item": "avaritia:neutron_collector|0",
+      "emc": 3166720
+    },
+    {
+      "item": "karatgarden:item_carrot_08_ext|0",
+      "emc": 64
+    },
+    {
+      "item": "karatgarden:item_carrot_08|0",
+      "emc": 64
+    },
+    {
+      "item": "projecte:item.pe_dm_armor_3|0",
+      "emc": 696320
+    },
+    {
+      "item": "projecte:item.pe_dm_armor_2|0",
+      "emc": 1114112
+    },
+    {
+      "item": "projecte:item.pe_dm_armor_1|0",
+      "emc": 974848
+    },
+    {
+      "item": "projecte:item.pe_dm_armor_0|0",
+      "emc": 557056
+    },
+    {
+      "item": "botania:manaResource|1",
+      "emc": 1024
+    },
+    {
+      "item": "botania:manaResource|0",
+      "emc": 256
+    },
+    {
+      "item": "botania:manaResource|2",
+      "emc": 8192
+    },
+    {
+      "item": "p455w0rdsthings:carbon_block|0",
+      "emc": 20736
+    },
+    {
+      "item": "projecte:condenser_mk1|0",
+      "emc": 2754315
+    },
+    {
+      "item": "mekanism:Ingot|4",
+      "emc": 512
+    },
+    {
+      "item": "bigreactors:ingotmetals|5",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|160",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:ControlCircuit|0",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:EnrichedAlloy|0",
+      "emc": 256
+    },
+    {
+      "item": "mekanism:ReinforcedAlloy|0",
+      "emc": 256
+    },
+    {
+      "item": "mekanism:AtomicAlloy|0",
+      "emc": 256
+    },
+    {
+      "item": "mekanism:MachineBlock|13",
+      "emc": 3199
+    },
+    {
+      "item": "mekanism:ControlCircuit|1",
+      "emc": 1024
+    },
+    {
+      "item": "mekanism:ControlCircuit|2",
+      "emc": 1536
+    },
+    {
+      "item": "mekanism:ControlCircuit|3",
+      "emc": 2048
+    },
+    {
+      "item": "projecte:condenser_mk2|0",
+      "emc": 12470534
+    },
+    {
+      "item": "avaritia:resource|5",
+      "emc": 700000
+    },
+    {
+      "item": "exnihiloadscensio:itemOreYellorium|3",
+      "emc": 4096
+    },
+    {
+      "item": "thermalfoundation:material|2048",
+      "emc": 1536
+    },
+    {
+      "item": "thermalfoundation:material|2050",
+      "emc": 1536
+    },
+    {
+      "item": "thermalfoundation:material|2052",
+      "emc": 1536
+    },
+    {
+      "item": "appliedenergistics2:material|9",
+      "emc": 1536
+    },
+    {
+      "item": "minecraft:dragon_breath|0",
+      "emc": 131072
+    },
+    {
+      "item": "thermalfoundation:material|135",
+      "emc": 4096
+    },
+    {
+      "item": "exnihiloadscensio:itemOreIridium|3",
+      "emc": 4096
+    },
+    {
+      "item": "mekanism:MachineBlock|15",
+      "emc": 2652
+    },
+    {
+      "item": "projecte:item.pe_tome|0",
+      "emc": 200
+    },
+    {
+      "item": "enderio:itemMaterial|8",
+      "emc": 19512
+    },
+    {
+      "item": "enderio:itemMaterial|9",
+      "emc": 16384
+    },
+    {
+      "item": "minecraft:skull|0",
+      "emc": 1000
+    },
+    {
+      "item": "minecraft:skull|2",
+      "emc": 1000
+    },
+    {
+      "item": "minecraft:skull|3",
+      "emc": 1000
+    },
+    {
+      "item": "minecraft:skull|4",
+      "emc": 1000
+    },
+    {
+      "item": "minecraft:skull|5",
+      "emc": 1000
+    },
+    {
+      "item": "xreliquary:mob_ingredient|1",
+      "emc": 128
+    },
+    {
+      "item": "enderio:itemFrankenSkull|5",
+      "emc": 5290
+    },
+    {
+      "item": "enderio:itemFrankenSkull|1",
+      "emc": 5322
+    },
+    {
+      "item": "enderio:itemFrankenSkull|2",
+      "emc": 5322
+    },
+    {
+      "item": "enderio:itemFrankenSkull|0",
+      "emc": 7220
+    },
+    {
+      "item": "enderio:blockEndermanSkull|0",
+      "emc": 1000
+    },
+    {
+      "item": "p455w0rdsthings:enderman_skull|0",
+      "emc": 1000
+    },
+    {
+      "item": "p455w0rdsthings:enderman2_skull|0",
+      "emc": 1000
+    },
+    {
+      "item": "p455w0rdsthings:frienderman_skull|0",
+      "emc": 1000
+    },
+    {
+      "item": "enderio:blockEndermanSkull|2",
+      "emc": 6358
+    },
+    {
+      "item": "enderio:itemFrankenSkull|3",
+      "emc": 8778
+    },
+    {
+      "item": "enderio:itemFrankenSkull|4",
+      "emc": 8778
+    },
+    {
+      "item": "enderio:blockFusedQuartz|2",
+      "emc": 576
+    },
+    {
+      "item": "enderio:blockFusedQuartz|4",
+      "emc": 1088
+    },
+    {
+      "item": "enderio:itemMaterial|12",
+      "emc": 9328
+    },
+    {
+      "item": "enderio:itemMaterial|15",
+      "emc": 19512
+    },
+    {
+      "item": "enderio:itemMaterial|16",
+      "emc": 19512
+    },
+    {
+      "item": "enderio:itemMaterial|13",
+      "emc": 19512
+    },
+    {
+      "item": "enderio:blockFusedQuartz|3",
+      "emc": 385
+    },
+    {
+      "item": "enderio:blockFusedQuartz|5",
+      "emc": 65
+    },
+    {
+      "item": "aroma1997sdimension:portalIgniter|0",
+      "emc": 64
+    },
+    {
+      "item": "exnihiloadscensio:itemOreMithril|3",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|136",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|164",
+      "emc": 1152
+    },
+    {
+      "item": "thermalfoundation:material|320",
+      "emc": 128
+    },
+    {
+      "item": "thermalfoundation:material|321",
+      "emc": 256
+    },
+    {
+      "item": "thermalfoundation:material|322",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|323",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|324",
+      "emc": 128
+    },
+    {
+      "item": "thermalfoundation:material|325",
+      "emc": 1024
+    },
+    {
+      "item": "thermalfoundation:material|326",
+      "emc": 4096
+    },
+    {
+      "item": "thermalfoundation:material|327",
+      "emc": 4096
+    },
+    {
+      "item": "thermalfoundation:material|328",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|352",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|353",
+      "emc": 1280
+    },
+    {
+      "item": "thermalfoundation:material|354",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|355",
+      "emc": 160
+    },
+    {
+      "item": "thermalfoundation:material|356",
+      "emc": 1152
+    },
+    {
+      "item": "thermalfoundation:material|357",
+      "emc": 384
+    },
+    {
+      "item": "thermalfoundation:material|358",
+      "emc": 704
+    },
+    {
+      "item": "thermalfoundation:material|359",
+      "emc": 2528
+    },
+    {
+      "item": "thermalfoundation:material|770",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:material|772",
+      "emc": 32
+    },
+    {
+      "item": "thermalfoundation:material|1024",
+      "emc": 464
+    },
+    {
+      "item": "thermalfoundation:material|2049",
+      "emc": 768
+    },
+    {
+      "item": "thermalfoundation:material|2051",
+      "emc": 768
+    },
+    {
+      "item": "thermalfoundation:material|2053",
+      "emc": 768
+    },
+    {
+      "item": "thermalfoundation:material|1025",
+      "emc": 432
+    },
+    {
+      "item": "thermalfoundation:material|1026",
+      "emc": 432
+    },
+    {
+      "item": "thermalfoundation:material|1027",
+      "emc": 432
+    },
+    {
+      "item": "mekanism:Ingot|0",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:OtherDust|6",
+      "emc": 16
+    },
+    {
+      "item": "enderio:itemPowderIngot|7",
+      "emc": 16
+    },
+    {
+      "item": "mekanism:Ingot|3",
+      "emc": 384
+    },
+    {
+      "item": "appliedenergistics2:material|32",
+      "emc": 15968
+    },
+    {
+      "item": "appliedenergistics2:material|33",
+      "emc": 73696
+    },
+    {
+      "item": "appliedenergistics2:material|34",
+      "emc": 304608
+    },
+    {
+      "item": "appliedenergistics2:material|35",
+      "emc": 3424
+    },
+    {
+      "item": "appliedenergistics2:material|36",
+      "emc": 11041
+    },
+    {
+      "item": "appliedenergistics2:material|37",
+      "emc": 43108
+    },
+    {
+      "item": "appliedenergistics2:material|38",
+      "emc": 53093
+    },
+    {
+      "item": "redstonearsenal:material|32",
+      "emc": 1601
+    },
+    {
+      "item": "redstonearsenal:material|128",
+      "emc": 1601
+    },
+    {
+      "item": "harvestcraft:saltitem|0",
+      "emc": 64
+    },
+    {
+      "item": "mekanism:Salt|0",
+      "emc": 64
+    },
+    {
+      "item": "mekanism:SaltBlock|0",
+      "emc": 256
+    },
+    {
+      "item": "mekanism:BasicBlock|12",
+      "emc": 1152
+    },
+    {
+      "item": "mekanism:BasicBlock|13",
+      "emc": 2304
+    },
+    {
+      "item": "mysticalagriculture:fertilized_essence|0",
+      "emc": 1000
+    }
+  ]
+}

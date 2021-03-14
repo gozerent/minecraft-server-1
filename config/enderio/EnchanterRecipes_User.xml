@@ -1,0 +1,40 @@
+<!-- An example of how to add the enchantments from Thaumcraft.
+
+  <enchantment name="Thaumcraft:potency" costPerLevel="5" >
+    <itemStack modID="Thaumcraft" itemName="ItemShard" itemMeta="1" />
+  </enchantment>
+
+  <enchantment name="Thaumcraft:frugal" costPerLevel="5" >
+    <itemStack modID="Thaumcraft" itemName="ItemShard" itemMeta="4" />
+  </enchantment>
+
+  <enchantment name="Thaumcraft:wandfortune" costPerLevel="5" >
+    <itemStack modID="Thaumcraft" itemName="blockCustomPlant" itemMeta="1" />
+  </enchantment>
+
+  <enchantment name="Thaumcraft:haste" costPerLevel="5" >
+    <itemStack modID="Thaumcraft" itemName="blockMetalDevice" itemMeta="8" />
+  </enchantment>
+
+  <enchantment name="Thaumcraft:repair" costPerLevel="15" >
+    <itemStack modID="Thaumcraft" itemName="BlockJarNodeItem" />
+  </enchantment>
+
+-->
+
+<enchaterRecipes>
+
+  <enchantment name="exnihiloadscensio:sieveEfficiency" costPerLevel="10" >
+    <itemStack oreDictionary="ingotAluminum" number="8" />
+  </enchantment>
+    <enchantment name="exnihiloadscensio:sieveFortune" costPerLevel="10" >
+    <itemStack oreDictionary="ingotManyullyn" number="4" />
+  </enchantment>
+    <enchantment name="exnihiloadscensio:sieveLuckOfTheSea" costPerLevel="5" >
+    <itemStack modID="p455w0rdsthings" itemName="emerald_bit" number="8" />
+  </enchantment>
+    <enchantment name="hardcorewither:witherAffinity" costPerLevel="15" >
+    <itemStack modID="mysticalagradditions" itemName="insanium" itemMeta="2" number="4" />
+  </enchantment>
+  
+</enchaterRecipes>

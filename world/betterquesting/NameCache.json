@@ -1,0 +1,24 @@
+{
+  "nameCache": [
+    {
+      "uuid": "9f7db441-59d6-3bb1-aa14-af22d8d618f9",
+      "name": "SpaceCore_",
+      "isOP": false
+    },
+    {
+      "uuid": "e46b364f-5edd-3ad5-b8c3-586f3206ca05",
+      "name": "re1age",
+      "isOP": false
+    },
+    {
+      "uuid": "e71288f9-e9fe-3771-a9cd-e1fc75d6b295",
+      "name": "Oslye",
+      "isOP": false
+    },
+    {
+      "uuid": "9938fbe0-0ff9-3069-90a3-2e961bb1e816",
+      "name": "gozerent",
+      "isOP": true
+    }
+  ]
+}

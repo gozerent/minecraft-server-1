@@ -1,0 +1,39 @@
+{
+  "default_rank": "example",
+  "ranks": {
+    "example": {
+      "parent": "",
+      "display_name": "",
+      "color": "",
+      "prefix": "",
+      "permissions": [
+        "command.help",
+        "-command.tell"
+      ],
+      "config": {
+        "ftbu.badge": "",
+        "ftbu.chunkloader.max_chunks": 50,
+        "ftbu.chunkloader.offline_timer": -1.0,
+        "ftbu.chunkloader.type": "offline",
+        "ftbu.claims.forced_explosions": "-",
+        "ftbu.claims.max_chunks": 100,
+        "ftbu.homes.max": 1
+      }
+    },
+    "admin_example": {
+      "parent": "",
+      "display_name": "",
+      "color": "",
+      "prefix": "",
+      "permissions": [
+        "*"
+      ],
+      "config": {
+        "some.int": 10000,
+        "ftbu.chunkloader.max_chunks": 64,
+        "ftbu.claims.max_chunks": 1000,
+        "ftbu.homes.max": 100
+      }
+    }
+  }
+}

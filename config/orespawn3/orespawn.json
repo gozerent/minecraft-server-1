@@ -1,0 +1,114 @@
+{
+  "version": "1.1",
+  "dimensions": [
+    {
+      "dimension": "-1",
+      "ores": [
+        {
+			"block": "minecraft:quartz_ore",
+			"parameters": {
+            "size": 15,
+            "variation": 4,
+            "frequency": 7.0,
+            "minHeight": 0,
+            "maxHeight": 128
+          },
+          "feature": "default",
+          "replace_block": "default",
+          "biomes": []
+        },
+		{
+			"block":"nethermetals:nether_coal_ore",
+			"parameters": {
+			  "size":12,
+			  "variation":12,
+		  	"frequency":12,
+			  "minHeight":0,
+			  "maxHeight":128
+		},
+          "feature": "default",
+          "replace_block": "default",
+          "biomes": []
+        },
+		{
+			"block":"nethermetals:nether_diamond_ore",
+			"parameters": {
+			  "size":4,
+			  "variation":4,
+			  "frequency":4,
+			  "minHeight":0,
+			  "maxHeight":128
+		},
+          "feature": "default",
+          "replace_block": "default",
+          "biomes": []
+        },
+		{
+			"block":"nethermetals:nether_emerald_ore",
+			"parameters": {
+			  "size":2,
+			  "variation":4,
+			  "frequency":2,
+			  "minHeight":0,
+			  "maxHeight":128
+		},
+		      "feature": "default",
+          "replace_block": "default",
+          "biomes": []
+        },
+		{
+			"block":"nethermetals:nether_gold_ore",
+			"parameters": {
+			  "size":6,
+			  "variation":6,
+			  "frequency":6,
+			  "minHeight":0,
+		  	"maxHeight":128
+		},
+		      "feature": "default",
+          "replace_block": "default",
+          "biomes": []
+		},
+		{
+			"block":"nethermetals:nether_iron_ore",
+			"parameters": {
+			  "size":12,
+		  	"variation":12,
+		  	"frequency":12,
+		  	"minHeight":0,
+		  	"maxHeight":128
+		},
+		      "feature": "default",
+          "replace_block": "default",
+          "biomes": []
+        },
+		{
+			"block":"nethermetals:nether_lapis_ore",
+			"parameters": {
+			  "size":4,
+			  "variation":4,
+			  "frequency":4,
+			  "minHeight":0,
+			  "maxHeight":128
+		},
+		      "feature": "default",
+          "replace_block": "default",
+          "biomes": []
+        },
+		{
+			"block":"nethermetals:redstone_ore",
+			"parameters": {
+			  "size":6,
+			  "variation":6,
+			  "frequency":6,
+			  "minHeight":0,
+			  "maxHeight":128
+		},
+		      "feature": "default",
+          "replace_block": "default",
+          "biomes": []
+        }
+      ]
+    }
+  ]
+}

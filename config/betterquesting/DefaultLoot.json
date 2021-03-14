@@ -1,0 +1,1191 @@
+{
+  "groups": [
+    {
+      "name": "Rewards",
+      "weight": 2,
+      "rewards": [
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "tconstruct:punji",
+              "Count": 5,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "botania:cosmetic",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 4,
+              "tag": {}
+            },
+            {
+              "id": "botania:cosmetic",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 7
+            },
+            {
+              "id": "botania:cosmetic",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "enderio:blockGauge",
+              "Count": 5,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "randomthings:fluidDisplay",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "chancecubes:chance_Cube",
+              "Count": 7,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "extrautils2:fakecopy",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 8
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:stone",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:log",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "xprings:xpr2",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "experience:3": 0
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "enderio:itemAlloy",
+              "Count": 5,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "bigreactors:brore",
+              "Count": 12,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Good Rewards",
+      "weight": 2,
+      "rewards": [
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "botania:blackLotus",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "xreliquary:mob_charm",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "type:1": 11
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "quantumflux:graphiteOre",
+              "Count": 5,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "karatgarden:item_carrot_01_ext",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "xprings:xpr5",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "experience:3": 0
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "chancecubes:chance_Pendant_Tier1",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "chancecubes:chance_Icosahedron",
+              "Count": 7,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "mekanism:BasicBlock2",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "enderio:itemBasicCapacitor",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "xreliquary:mob_charm",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "type:1": 6
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "xreliquary:mob_charm",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "type:1": 10
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "xreliquary:mob_charm",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "type:1": 13
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "thermalfoundation:tool.hammer_invar",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "thermaldynamics:ThermalDynamics_64",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "thermaldynamics:ThermalDynamics_64",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 1
+            },
+            {
+              "id": "thermaldynamics:ThermalDynamics_64",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "harvestcraft:epicbaconitem",
+              "Count": 12,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "randomthings:ingredient",
+              "Count": 10,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Greater Rewards",
+      "weight": 2,
+      "rewards": [
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "xprings:xpr12",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "experience:3": 0
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "mekanism:Ingot",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 3
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "randomthings:natureCore",
+              "Count": 9,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "xreliquary:mob_charm",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "type:1": 7
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "xreliquary:mob_charm",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "type:1": 1
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "xreliquary:mob_charm",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "type:1": 4
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "chancecubes:compact_Giant_Chance_Cube",
+              "Count": 7,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "mysticalagriculture:mystical_fertilizer",
+              "Count": 32,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "botania:brewFlask",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "brewKey:8": "haste"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "botania:brewFlask",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "brewKey:8": "speed"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "thermalfoundation:tool.shield_diamond",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "enderio:itemPowerConduit",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "appliedenergistics2:fluix_block",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "appliedenergistics2:quartz_block",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "draconicevolution:infused_obsidian",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "thermalexpansion:upgrade",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 3
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "solarfluxreborn:mirror",
+              "Count": 9,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "solarfluxreborn:solarCell1",
+              "Count": 9,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "solarfluxreborn:solarCell2",
+              "Count": 9,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "solarfluxreborn:solarCell3",
+              "Count": 9,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "solarfluxreborn:solarCell4",
+              "Count": 9,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rare Rewards",
+      "weight": 2,
+      "rewards": [
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "furnaceo:blockDiamondFurnace",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "botania:manaResource",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "xreliquary:mob_charm",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "type:1": 0
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "xreliquary:mob_charm",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "type:1": 9
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "tp:growth_block",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "xreliquary:mob_charm",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "type:1": 12
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "botania:lens",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 4,
+              "tag": {}
+            },
+            {
+              "id": "botania:lens",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1,
+              "tag": {}
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "botania:brewFlask",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "brewKey:8": "fireResistance"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "mekanism:OtherDust",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 4
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "draconicevolution:draconic_core",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "thermaldynamics:ThermalDynamics_0",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "appliedenergistics2:material",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ultra-Rare Rewards",
+      "weight": 1,
+      "rewards": [
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "storagedrawers:upgradeStorage",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 3
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "botania:blackLotus",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "mysticalagriculture:charm_mining_aoe",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "mysticalagriculture:charm_nightvision",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "mysticalagriculture:charm_wither",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "chancecubes:chance_Pendant_Tier3",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "enderio:itemMagnet",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "botania:exchangeRod",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {}
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "xreliquary:fertile_lilypad",
+              "Count": 3,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "xreliquary:mob_charm",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "type:1": 3
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "xreliquary:mob_charm",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "type:1": 2
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "xreliquary:mob_charm",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "type:1": 8
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "tp:growth_upgrade",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "p455w0rdsthings:carbon_shield",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 40,
+                    "id:2": 4
+                  }
+                },
+                "Unbreakable:3": 1,
+                "HideFlags:3": 0,
+                "display:10": {
+                  "Lore:9": {
+                    "8": "§r§ADidn\u0027t Expect this did you!"
+                  },
+                  "Name:8": "§r§AP455w0rd\u0027s Shield"
+                },
+                "AttributeModifiers:9": {
+                  "10": {
+                    "UUIDMost:4": 7885748249959943147,
+                    "UUIDLeast:4": -6367820207438349374,
+                    "Amount:6": 60.0,
+                    "Slot:8": "offhand",
+                    "AttributeName:8": "generic.knockbackResistance",
+                    "Operation:3": 0,
+                    "Name:8": "generic.knockbackResistance"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "draconicevolution:wyvern_core",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "enderio:itemFrankenSkull",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "enderio:itemFrankenSkull",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            },
+            {
+              "id": "enderio:itemFrankenSkull",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 2
+            },
+            {
+              "id": "enderio:itemFrankenSkull",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 3
+            },
+            {
+              "id": "enderio:itemFrankenSkull",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 4
+            },
+            {
+              "id": "enderio:itemFrankenSkull",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "projecte:item.pe_alchemical_bag",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 15
+            },
+            {
+              "id": "projecte:item.pe_alchemical_bag",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            },
+            {
+              "id": "projecte:item.pe_alchemical_bag",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Legendary Rewards",
+      "weight": 1,
+      "rewards": [
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "tp:netherstar_block",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "tconstruct:materials",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 50
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "xreliquary:witherless_rose",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "draconicevolution:draconic_block",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "chancecubes:silk_Touch_Pendant",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "projecte:item.pe_repair_talisman",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {}
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "thermalexpansion:florb",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Fluid:8": "cryotheum"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "thermalexpansion:upgrade",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 35
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "tp:growth_upgrade_two",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "avaritia:skullfire_sword",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "ench:9": {
+                  "10": {
+                    "lvl:2": 40,
+                    "id:2": 21
+                  }
+                },
+                "Unbreakable:3": 1,
+                "HideFlags:3": 0,
+                "display:10": {
+                  "Lore:9": {
+                    "8": "§rBRUH!"
+                  },
+                  "Name:8": "§r§4Epeolatry"
+                },
+                "AttributeModifiers:9": {
+                  "10": {
+                    "UUIDMost:4": 8962846864864987917,
+                    "UUIDLeast:4": -7324077734101406172,
+                    "Amount:6": 999.0,
+                    "Slot:8": "mainhand",
+                    "AttributeName:8": "generic.attackDamage",
+                    "Operation:3": 0,
+                    "Name:8": "generic.attackDamage"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "furnaceo:blockZenithFurnace",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "mysticalagradditions:special",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "mysticalagradditions:special",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
